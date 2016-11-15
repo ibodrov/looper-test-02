@@ -5,5 +5,5 @@ language: workflow
 flows:
   master:
   - echo 345 
-  - call flow01
+  - call: flow01
 
