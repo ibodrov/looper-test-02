@@ -1,4 +1,4 @@
-inherit: looper-test-01
+inherit: job://looper-test-01
 
 language: workflow
 
