@@ -1,0 +1,9 @@
+inherit: looper-test-01
+
+language: workflow
+
+flows:
+  master:
+  - echo "Hello, from the flow #2!"
+  - call flow01
+
