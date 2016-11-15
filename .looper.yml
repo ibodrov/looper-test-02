@@ -4,6 +4,6 @@ language: workflow
 
 flows:
   master:
-  - echo "Hello, from the flow #2!"
+  - echo 345 
   - call flow01
 
